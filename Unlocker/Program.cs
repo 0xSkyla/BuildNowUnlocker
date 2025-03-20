@@ -39,7 +39,7 @@ namespace Unlocker
         {
             httpClient = new HttpClient();
             Console.WriteLine("===================================================================");
-            Console.WriteLine("    BUILDNOW.GG UNLOCKER - v1.3.8 - github.com/0xSkyla/BuildNowUnlockerUnlocker");
+            Console.WriteLine("    BUILDNOW.GG UNLOCKER - v1.3.8 - github.com/0xSkyla/BuildNowUnlocker");
             Console.WriteLine("===================================================================");
             Console.CancelKeyPress += Console_CancelKeyPress;
             AppDomain.CurrentDomain.ProcessExit += CurrentDomain_ProcessExit;
